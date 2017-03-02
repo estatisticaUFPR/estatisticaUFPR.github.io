@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Aprendizado Automático
-subtitle: .
+subtitle: 
 date: 2016-05-22 21:11:20
 author: jekyll
 ---
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
+[![Aprendizado Automático (parte 1)](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/watch?v=Bmr6u8A2_PQ "Aprendizado Automático (parte 1) - Clique para assistir!")
