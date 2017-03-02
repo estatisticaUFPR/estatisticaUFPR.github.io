@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post1
 title: Aprendizado Automático
 subtitle: 
 date: 2017-03-02 21:11:20
