@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Estatistica - UFPR</title>
-    <link>https://example.org/</link>
+    <link>https://estatisticaufpr.github.io/</link>
     <description>Recent content on Estatistica - UFPR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://estatisticaufpr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Em Breve</title>
-      <link>https://example.org/blog/2015/10/10/relato-1/</link>
+      <link>https://estatisticaufpr.github.io/blog/2015/10/10/relato-1/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://example.org/blog/2015/10/10/relato-1/</guid>
+      <guid>https://estatisticaufpr.github.io/blog/2015/10/10/relato-1/</guid>
       <description> Em breve </description>
     </item>
     
     <item>
       <title>Linked post</title>
-      <link>https://example.org/blog/2015/10/02/linked-post/</link>
+      <link>https://estatisticaufpr.github.io/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://example.org/blog/2015/10/02/linked-post/</guid>
+      <guid>https://estatisticaufpr.github.io/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
       <title>Go is for lovers</title>
-      <link>https://example.org/blog/2015/09/17/go-is-for-lovers/</link>
+      <link>https://estatisticaufpr.github.io/blog/2015/09/17/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://example.org/blog/2015/09/17/go-is-for-lovers/</guid>
+      <guid>https://estatisticaufpr.github.io/blog/2015/09/17/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>https://estatisticaufpr.github.io/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>https://estatisticaufpr.github.io/blog/2015/08/03/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -57,20 +57,20 @@ Follow the following steps:
     
     <item>
       <title>Relato 1</title>
-      <link>https://example.org/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>https://estatisticaufpr.github.io/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://example.org/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>https://estatisticaufpr.github.io/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>A Universidade</title>
-      <link>https://example.org/universidade/</link>
+      <link>https://estatisticaufpr.github.io/universidade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/universidade/</guid>
+      <guid>https://estatisticaufpr.github.io/universidade/</guid>
       <description>Saiba mais sobre as oportunidades dentro da universidade Projetos de Extensão Para cada curso, existem diversos projetos dos quais o aluno pode participar. No Departamento de Estatística, as oportunidades são:  LEA: Laboratório de Estatística Aplicada
  PET: Programa de Educação Tutorial
  DataEst: Empresa júnior de estatística
@@ -80,20 +80,21 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>Contato</title>
-      <link>https://example.org/contact/</link>
+      <link>https://estatisticaufpr.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/contact/</guid>
+      <guid>https://estatisticaufpr.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disciplinas</title>
-      <link>https://example.org/disciplinas/</link>
+      <link>https://estatisticaufpr.github.io/disciplinas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/disciplinas/</guid>
-      <description>Machine Learning Segundo James et al. (2013), Machine Learning ou Aprendizado de Máquina, se refere ao enorme conjunto de técnicas que visam criar sistemas computacionais cujo comportamento seja definido com base em dados já existentes. O comportamento do sistema não seria diretamente programado, mas sim adaptado de um conhecimento previamente adquirido, essa aprendizagem se assimila muito a forma em que humanos aprendem, com a experiência. Uma forma mais abstrata de definir a inteligencia é a capacidade de se adaptar com a experiência, logo o machine learning devera ser capaz de se adaptar conforme observa os efeitos de suas ações no meio em que está inserido.</description>
+      <guid>https://estatisticaufpr.github.io/disciplinas/</guid>
+      <description>a { color: #fff; text-decoration: none; text-decoration-line: none; text-decoration-style: initial; text-decoration-color: initial; }  
+Fundamentos de Programação Esta disciplina é uma introdução à linguagem Python de programação, uma linguagem especialmente eficiente na área de análise de dados. Produtiva e fácil de escrever, a linguagem Python conta com diversas bibliotecas que a tornam muito versátil e permitem a leitura e manipulação de diferentes tipos de documentos. Além disso, Python é livre e de código aberto, multiplataforma e pode ser utilizada desde nos programas mais básicos até os mais complexos, sempre com eficiência e simplicidade.</description>
     </item>
     
   </channel>
